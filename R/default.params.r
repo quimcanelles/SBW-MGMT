@@ -51,8 +51,8 @@ default.params = function(){
   current.duration = 0,  # number of years with active sbw
       # 12 if simulating from 2011 to 2020, but 14 if from 2007 to 2020
   niche.opt = 1,
-  niche.good = 0.6,
-  niche.poor = 0.3,
+  niche.good = 0.5,
+  niche.poor = 0.2,
   
   ## Number of neighbours in each bubble around the epicenters
   kmin.bubble = 200,
